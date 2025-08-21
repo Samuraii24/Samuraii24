@@ -35,7 +35,7 @@
 
 ## 📫 Contacto
 - 🌐 GitHub: https://github.com/Samuraii24
-- 💼 LinkedIn: https://www.linkedin.com/in/ben-josef-sanchez-gomez/
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ben-josef-sanchez-gomez/)
 
 ---
 
