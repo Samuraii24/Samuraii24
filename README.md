@@ -23,7 +23,7 @@
 - *(Próximamente)* 
 
 ### 🧩 Laboratorios & Write-ups
-- *(Próximamente)* 
+- **Write-ups:** (https://github.com/Samuraii24/Labs-WriteUps)
 ---
 
 ## 🛠️ Tecnologías & Herramientas
