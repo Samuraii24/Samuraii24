@@ -24,6 +24,8 @@
 
 ### 🧩 Laboratorios & Write-ups
 - **Write-ups:** (https://github.com/Samuraii24/Labs-WriteUps)
+
+  
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-WriteUps-green?logo=hackthebox)](https://www.hackthebox.eu/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-WriteUps-purple?logo=tryhackme)](https://tryhackme.com/)
 [![VulnHub](https://img.shields.io/badge/VulnHub-Labs-orange?logo=vulnhub)](https://www.vulnhub.com/)
