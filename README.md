@@ -23,7 +23,7 @@
 - *(Próximamente)* 
 
 ### 🧩 Laboratorios & Write-ups
-- **Write-ups:** [![Write-Ups](https://github.com/Samuraii24/Labs-WriteUps)
+- **Write-Ups:** [Write-Ups](https://github.com/Samuraii24/Labs-WriteUps)
 
   
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-WriteUps-green?logo=hackthebox)](https://www.hackthebox.eu/)
@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Contacto
-- 🌐 GitHub: [![GitHub](https://github.com/Samuraii24)
+- 🌐 GitHub: [GitHub](https://github.com/Samuraii24)
 - 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/ben-josef-sanchez-gomez/)
 
 ---
